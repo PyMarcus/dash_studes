@@ -1,0 +1,18 @@
+table{
+  color: #000000;
+  text-align: center;
+  padding:20px;
+}
+th{
+   color: #fff;
+   padding:10px;
+   background-color: #25c;
+}
+
+td{
+  padding:20px;
+}
+
+body{
+    background:#E0E0E0;
+}
